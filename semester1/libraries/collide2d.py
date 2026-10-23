@@ -5,6 +5,8 @@
 #Kept as close to the p5.js version of Collide2D made by Ben Moren as possible:
 #https://github.com/bmoren/p5.collide2D
 
+from py5 import *
+
 def collidePointPoint(x1, y1, x2, y2):
   """Input coordinates for two points, returns true if points are touching"""
   
