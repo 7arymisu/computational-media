@@ -5,7 +5,7 @@
 def draw():
     background(220)
     fill(0)
-    #text(str(mouse_x) + ", " + str(mouse_y), 20, 20)
+    # text(str(mouse_x) + ", " + str(mouse_y), 20, 20)
 
     color_mode(HSB,360,100,100)
 
